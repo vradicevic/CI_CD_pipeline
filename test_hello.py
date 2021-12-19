@@ -1,4 +1,4 @@
-from hello import *
+from hello import add_one, subtract_one
 
 def setup_function(function):
     print("Running Setup: %s" % function.__name__)
