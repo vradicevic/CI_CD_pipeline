@@ -57,10 +57,11 @@ IaC bring ease to definition, deployment, incremental upgrades and removing of i
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+* Implement development webapp for preproduction preview.
+* Create additional pipeline for Pull requests so we can test app before deploying to production phase.
 
 ## Demo 
 
-<TODO: Add link Screencast on YouTube>
 
+* https://youtu.be/hra_rbZYk8M
 
