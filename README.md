@@ -1,5 +1,5 @@
 # Overview
-[![Python application test with Github Actions](https://github.com/vradicevic/CI_CD_pipeline/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/vradicevic/CI_CD_pipeline/actions/workflows/pythonapp.yml)
+[![Python application test with Github Actions](https://github.com/vradicevic/CI_CD_pipeline/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/vradicevic/CI_CD_pipeline/actions/workflows/pythonapp.yml)  
 IaC bring ease to definition, deployment, incremental upgrades and removing of infrastrucure. VM to infrastracture should be deployed using terrafrom, whilst VM image should be created using packer to be able to easily deploy new instances of same infrastructure. This project will be able to deploy scaleable web application in Azure space using  Azure pipelines and or github actions.
 
 ## Project Plan
